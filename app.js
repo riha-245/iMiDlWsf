@@ -576,6 +576,11 @@ for (var i = 0; i < opts.strings.length; ++i) {
 
 }
 
+// Try playing it after user interaction
+  document.addEventListener("click", function () {
+    document.getElementById("birthday-audio").play();
+  });
+
 anim();
 
 window.addEventListener('resize', function() {
