@@ -1,4 +1,3 @@
-
 // JavaScript for interactivity
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -57,7 +56,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Change button text
 
-        loveButton.textContent = 'Never Leave me yaar';
+        loveButton.textContent = 'Never Leave me Sachi🙄';
 
         loveButton.style.backgroundColor = '#ff6b81';
 
